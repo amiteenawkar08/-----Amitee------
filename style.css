@@ -1,0 +1,30 @@
+#profile
+{
+    height: 300px;
+    width: 300px;
+}
+#p{
+    font-size: 23px;
+    font-family: cursive;
+    color:chocolate;
+}
+#bio{
+    font-size: 25px;
+    font-family: cursive;
+}
+#welcome{
+    text-align: center;
+    background-color:bisque;
+}
+#bio1{
+    text-align: center;
+background-color: antiquewhite;    
+}
+#videos{
+    background-color: rgb(255, 235, 228);
+    text-align: center;
+}
+#contact{
+    text-align: center;
+    background-color: lavenderblush;
+}
